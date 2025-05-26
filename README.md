@@ -42,6 +42,8 @@ Click the badge to see one example project utilizing that skill. If it does not 
 [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)]()
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://github.com/dadal00/PickOne)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)]()
+[<img src="badges/meilisearch.png" width="100" height="21" alt="Meilisearch"/>]()
 
 ### Data Science
 
