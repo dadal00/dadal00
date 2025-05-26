@@ -6,7 +6,7 @@ I'm currently a Computer Science Senior at Purdue University, graduating May 202
 
 ## Skills
 
-Click the badge to see one example project utilizing that skill. If it does not have one, I do not have permission to share but is further explored in my resume.
+Click the badge to see one example project utilizing that skill. If it does not have one, I do not have permission to share but it is further explored in my resume.
 
 ### Programming Languages
 
