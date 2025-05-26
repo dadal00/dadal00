@@ -16,12 +16,12 @@ Click the badge to see one example project utilizing that skill. If it does not 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://github.com/dadal00/PickOne)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://github.com/dadal00/PickOne)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)]()
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://github.com/dadal00/PickOne)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://github.com/dadal00/PickOne)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)]()
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 ### Frameworks
 
@@ -38,14 +38,14 @@ Click the badge to see one example project utilizing that skill. If it does not 
 [<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="21" />](https://github.com/dadal00/PickOne)
 [<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" height="21" />](https://github.com/dadal00/PickOne)
 [<img src="badges/goaccess.png" width="100" height="21" alt="GoAccess"/>](https://github.com/dadal00/PickOne)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)]()
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://github.com/dadal00/PickOne)
-[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)]()
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)]()
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://github.com/dadal00/PickOne)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)]()
-[<img src="badges/meilisearch.png" width="100" height="21" alt="Meilisearch"/>]()
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
+<img src="badges/meilisearch.png" width="100" height="21" alt="Meilisearch"/>
 
 ### Data Science
 
