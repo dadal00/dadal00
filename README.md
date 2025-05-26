@@ -4,6 +4,8 @@ I'm currently a Computer Science senior at Purdue University, graduating in May 
 
 [![https://pickone.cc](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pickone.cc)
 
+dylanadal.00@gmail.com
+
 ## Skills
 
 Click the badge to see one example project utilizing that skill. If it does not have one, I do not have permission to share but it is further explored in my resume.
