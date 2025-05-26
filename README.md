@@ -1,4 +1,4 @@
-# Hello, I'm Dylan
+# Hello! I'm Dylan!
 
 I'm currently a Computer Science Senior at Purdue University, graduating May 2026. I have 3+ years of professional programming experience and am currently working on https://pickone.cc.
 
@@ -50,7 +50,7 @@ Click the badge to see one example project utilizing that skill. If it does not 
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)]()
+[<img src="badges/databricks.png" width="100" height="21" alt="Databricks"/>](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
 
 ### Other
 
