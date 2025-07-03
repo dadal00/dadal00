@@ -1,6 +1,6 @@
 # Hello! I'm Dylan!
 
-I'm currently a Computer Science senior at Purdue University, graduating in May 2026. I have 3+ years of professional programming experience and am currently working on [PickOne](https://github.com/dadal00/PickOne).
+I'm currently a Computer Science senior at Purdue University, graduating in May 2026. I have 3+ years of professional programming experience and am currently working on [PickOne](https://github.com/dadal00/PickOne) and [BoilerSwap](https://github.com/dadal00/BoilerSwap).
 
 [![https://pickone.cc](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pickone.cc)
 
