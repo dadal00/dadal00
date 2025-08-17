@@ -1,15 +1,12 @@
 # Hello! I'm Dylan!
 
-I'm currently a Computer Science senior at Purdue University, graduating in May 2026. I have 3+ years of professional programming experience and am currently working on [PickOne](https://github.com/dadal00/PickOne) and [BoilerSwap](https://github.com/dadal00/BoilerSwap).
+I'm currently a Computer Science senior at Purdue University, graduating in May 2026. I have 3+ years of professional programming experience and am currently working on [PickOne](https://github.com/dadal00/PickOne).
 
 [![https://pickone.cc](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pickone.cc)
 
 dylanadal.00@gmail.com
 
 ## Skills
-
-Click the badge to see one example project utilizing that skill. If it does not have one, I do not have permission to share but it is further explored in my resume.
-
 ### Programming Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/dadal00/BlockchainPythonExample)
