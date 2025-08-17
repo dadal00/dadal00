@@ -7,6 +7,7 @@ I'm currently a Computer Science senior at Purdue University, graduating in May 
 dylanadal.00@gmail.com
 
 ## Skills
+
 ### Programming Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://github.com/dadal00/BlockchainPythonExample)
@@ -26,23 +27,36 @@ dylanadal.00@gmail.com
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](https://github.com/dadal00/AngularBasic)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://github.com/dadal00/BagelLocator)
 
+### Cloud Tools
+
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://github.com/dadal00/pickone_legacy)
+[![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](https://github.com/dadal00/PickOne)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
+[<img src="badges/databricks.png" width="80" alt="Databricks badge"/>](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
+
 ### Development
 
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://github.com/dadal00/PickOne)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://github.com/dadal00/PickOne)
-[<img src="badges/caddy.png" alt="Caddy" height="21" />](https://github.com/dadal00/PickOne)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://github.com/dadal00/PickOne)
-[<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="21" />](https://github.com/dadal00/PickOne)
-[<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" height="21" />](https://github.com/dadal00/PickOne)
-[<img src="badges/goaccess.png" width="100" height="21" alt="GoAccess"/>](https://github.com/dadal00/PickOne)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://github.com/dadal00/PickOne)
 ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://github.com/dadal00/PickOne)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://github.com/dadal00/PickOne)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
-<img src="badges/meilisearch.png" width="100" height="21" alt="Meilisearch"/>
+
+### Microservices
+
+[<img src="badges/meilisearch.png" width="105" alt="Meilisearch badge"/>](https://github.com/dadal00/PickOne)
+[<img src="badges/scylla.png" width="65" alt="Scylla badge"/>](https://github.com/dadal00/PickOne)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](https://github.com/dadal00/PickOne)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+[<img src="badges/caddy.png" alt="Caddy badge" width="65" />](https://github.com/dadal00/PickOne)
+
+### Devops
+
+[<img src="badges/grafana.png" alt="Grafana badge" width="105" />](https://github.com/dadal00/PickOne)
+[<img src="badges/prometheus.png" alt="Prometheus" width="105" />](https://github.com/dadal00/PickOne)
 
 ### Data Science
 
@@ -50,10 +64,9 @@ dylanadal.00@gmail.com
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
-[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
-[<img src="badges/databricks.png" width="100" height="21" alt="Databricks"/>](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
 
 ### Other
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](https://github.com/dadal00/PickOne)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](https://github.com/dadal00/BlockchainPythonExample)
+[![Oracle Linux](https://custom-icon-badges.demolab.com/badge/Oracle_Linux-F80000?logo=oracle&logoColor=fff)](https://github.com/dadal00/PickOne)
