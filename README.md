@@ -25,7 +25,7 @@ dylanadal.00@gmail.com
 
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](https://github.com/dadal00/PickOne)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](https://github.com/dadal00/AngularBasic)
-[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://github.com/dadal00/BagelLocator)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://drive.google.com/file/d/1FZSNo_Qn6Vbu9lvGydpSAEhV_SIbm0DX/view?usp=drive_link)
 
 ### Cloud Tools
 
@@ -34,6 +34,7 @@ dylanadal.00@gmail.com
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
 [<img src="badges/databricks.png" width="80" alt="Databricks badge"/>](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://drive.google.com/file/d/1FZSNo_Qn6Vbu9lvGydpSAEhV_SIbm0DX/view?usp=drive_link)
 
 ### Development
 
