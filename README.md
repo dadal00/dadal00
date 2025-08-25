@@ -1,6 +1,8 @@
 # Hello! I'm Dylan!
 
-I'm currently a Computer Science senior at Purdue University, graduating in May 2026. I have 3+ years of professional programming experience and am currently working on [PickOne](https://github.com/dadal00/PickOne).
+I'm currently a Computer Science senior at Purdue University, graduating in May 2026. I have 3+ years of professional programming experience and am currently working on projects including:
+- [PickOne](https://github.com/dadal00/PickOne)
+- [C The Web](https://github.com/dadal00/c_the_web)
 
 [![https://pickone.cc](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pickone.cc)
 
@@ -14,7 +16,7 @@ dylanadal.00@gmail.com
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://github.com/dadal00/PickOne)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://github.com/dadal00/PickOne)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://drive.google.com/file/d/1TuvDaSHydQNE31SCu_fGWuJyETZQ5C5R/view?usp=drive_link)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://github.com/dadal00/c_the_web)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://github.com/dadal00/PickOne)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://github.com/dadal00/PickOne)
