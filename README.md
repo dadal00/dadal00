@@ -1,10 +1,8 @@
 # Hello! I'm Dylan!
 
-I'm currently a Computer Science senior at Purdue University, graduating in May 2026. I have 3+ years of professional programming experience and am currently working on projects including:
-- [PickOne](https://github.com/dadal00/PickOne)
-- [C The Web](https://github.com/dadal00/c_the_web)
+Software Engineer
 
-[![https://pickone.cc](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pickone.cc)
+[![https://dadal00.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dadal00.com)
 
 dylanadal.00@gmail.com
 
